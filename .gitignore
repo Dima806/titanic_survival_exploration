@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# csv data files
+*.csv
+
+# python scripts
+*.py
